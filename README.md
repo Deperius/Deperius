@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deperius
 - 👀 I’m interested in IoT, A.I, Analog/ Digital control, POO, VideoGames, Robobitcs, Microcontrollers
-- 🌱 I’m currently learning web development using django, python, PostgreSql, javascript, java, MongoDB Spring Boot.
-- 💞️ I’m looking to collaborate on (to define hehe).
+- 🌱 I’ve learned web developmentwith the following languages and frameworks:
+       python, javascript, java, Vue, django, Spring Boot, GraphQl, PostgreSql, MongoDB.
 - 📫 How to reach me: E-mail; jhonk1999@gmail.com.
 
 <!---
